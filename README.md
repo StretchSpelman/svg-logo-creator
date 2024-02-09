@@ -1,6 +1,6 @@
 ## Logo Generator Tool
 # Overview
-Logo Generator Tool is a command-line utility designed to simplify the creation of SVG logos. It allows users to generate logos programmatically, saving time and effort compared to manual creation. The tool supports various shapes such as circles, squares, and triangles, with customizable colors and dimensions.
+I was tasked to build a svg logo generator which gives you specific parameters to ask what you would like to choose from as well as asking for input.
 
 ## Features
 Shape Selection: Choose from a variety of shapes including circles, squares, and triangles.
