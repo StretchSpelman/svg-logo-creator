@@ -1,4 +1,0 @@
-<svg width="50" height="50">
-            <circle cx="25" cy="25" r="25" stroke="black" stroke-width="2" fill="white" />
-            <text x="50%" y="50%" text-anchor="middle" dy=".3em" fill="red" font-size="30" font-family="Arial">lol</text>
-        </svg>
